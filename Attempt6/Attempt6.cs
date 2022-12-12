@@ -28,7 +28,7 @@ namespace Attempt6
         {
             var event1 = new EventSample
             {
-                EventName = "AAAAA",
+                EventName = "bbbbbbbbbAAAAA",
                 EventDesc = "AAAAA1",
                 EventURL = "Image.png"
             };
