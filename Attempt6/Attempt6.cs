@@ -28,22 +28,22 @@ namespace Attempt6
         {
             var event1 = new EventSample
             {
-                EventName = "Lorem1",
-                EventDesc = "Lorem1",
+                EventName = "AAAAA",
+                EventDesc = "AAAAA1",
                 EventURL = "Image.png"
             };
 
             var event2 = new EventSample
             {
-                EventName = "Lorem",
-                EventDesc = "Lorem1",
+                EventName = "LoAAAAAem",
+                EventDesc = "LoAAAAAem1",
                 EventURL = "Image.png"
             };
 
             var event3 = new EventSample
             {
-                EventName = "Lorem",
-                EventDesc = "Lorem1",
+                EventName = "LAAAAArem",
+                EventDesc = "LoreAAAAA1",
                 EventURL = "Image.png"
             };
 
